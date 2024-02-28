@@ -1,2 +1,2 @@
-# keybinds-reminder
-Default HTML, CSS, JS Webpage to make key binds easier to remember 
+# Default-Website-Skeleton
+Default Website Skeleton Files - HTML, CSS, JS
